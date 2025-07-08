@@ -1,5 +1,3 @@
--- Roblox Fly GUI Script
--- Pastikan script ini dijalankan sebagai LocalScript
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")

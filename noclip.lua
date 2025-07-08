@@ -1,6 +1,4 @@
--- Roblox No Clip GUI Script
--- Anti-Bug & Smooth Performance
--- Pastikan script ini dijalankan sebagai LocalScript
+
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
